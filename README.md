@@ -16,4 +16,5 @@ For displaying large symbols, each symbol is defined by blocks which are compose
 [KiCad](http://kicad-pcb.org/) schematic will be soon available.
 
 # Complete Setup
- ![](imgs/overview.jpg)
+[<img src="imgs/overview.jpg">](imgs/video.mp4)
+
