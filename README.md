@@ -13,10 +13,10 @@ thus the precise dcf77 date and time is shown on the 4x20 hd44780 display.
 For displaying large symbols, each symbol is defined by blocks which are composed as large symbols.
 
 # Schematic and Pins
-[KiCad](http://kicad-pcb.org/) schematic will be soon available.
+[KiCad](http://kicad-pcb.org/) schematic [avrdcf77.zip](kicad/avrdcf77.zip)
+![](kicad/avrdcf77.png)
 
 # Complete Setup
 [<img src="imgs/overview.jpg">](http://www.stibor.net/video.avrdcf77.mp4)
 
 More detailed information will follow.
-
